@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Dev San! 👋
+# 👨‍💻 Hi, I'm Dev Chand! 👋
 
 I am an 18-year-old developer passionate about building efficient software, creative gaming solutions, and modern web applications.
 
@@ -54,6 +54,6 @@ If you are looking for a reliable partner for fullstack projects, Discord automa
   </a>
 </p>
 
-> 💬 **Discord Handle:** `devsan1`
+> 💬 **Discord Handle:** `chand1nho`
 
 ---
